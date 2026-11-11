@@ -622368,5 +622368,2997 @@
       }
     },
     "learning": {}
+  },
+  {
+    "verdict": {
+      "acting_order": [
+        "iran_public",
+        "oil_market",
+        "shipping",
+        "trump",
+        "gas_market",
+        "iran_hardliners",
+        "markets",
+        "netanyahu",
+        "china",
+        "media",
+        "gulf",
+        "russia",
+        "us_public"
+      ],
+      "gates": {
+        "iran_public": {
+          "escalation_allowed": {
+            "kind": "noul",
+            "value": false,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          },
+          "human_review": {
+            "kind": "noul",
+            "value": true,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          }
+        },
+        "oil_market": {
+          "escalation_allowed": {
+            "kind": "noul",
+            "value": false,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          },
+          "human_review": {
+            "kind": "noul",
+            "value": true,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          }
+        },
+        "shipping": {
+          "escalation_allowed": {
+            "kind": "noul",
+            "value": false,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          },
+          "human_review": {
+            "kind": "noul",
+            "value": true,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          }
+        },
+        "trump": {
+          "escalation_allowed": {
+            "kind": "noul",
+            "value": false,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          },
+          "human_review": {
+            "kind": "noul",
+            "value": true,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          }
+        },
+        "gas_market": {
+          "escalation_allowed": {
+            "kind": "noul",
+            "value": false,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          },
+          "human_review": {
+            "kind": "noul",
+            "value": true,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          }
+        },
+        "iran_hardliners": {
+          "escalation_allowed": {
+            "kind": "noul",
+            "value": false,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          },
+          "human_review": {
+            "kind": "noul",
+            "value": true,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          }
+        },
+        "markets": {
+          "escalation_allowed": {
+            "kind": "noul",
+            "value": false,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          },
+          "human_review": {
+            "kind": "noul",
+            "value": true,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          }
+        },
+        "netanyahu": {
+          "escalation_allowed": {
+            "kind": "noul",
+            "value": false,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          },
+          "human_review": {
+            "kind": "noul",
+            "value": true,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          }
+        },
+        "china": {
+          "escalation_allowed": {
+            "kind": "noul",
+            "value": false,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          },
+          "human_review": {
+            "kind": "noul",
+            "value": true,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          }
+        },
+        "media": {
+          "escalation_allowed": {
+            "kind": "noul",
+            "value": false,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          },
+          "human_review": {
+            "kind": "noul",
+            "value": true,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          }
+        },
+        "gulf": {
+          "escalation_allowed": {
+            "kind": "noul",
+            "value": false,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          },
+          "human_review": {
+            "kind": "noul",
+            "value": true,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          }
+        },
+        "russia": {
+          "escalation_allowed": {
+            "kind": "noul",
+            "value": false,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          },
+          "human_review": {
+            "kind": "noul",
+            "value": true,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          }
+        },
+        "us_public": {
+          "escalation_allowed": {
+            "kind": "noul",
+            "value": false,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          },
+          "human_review": {
+            "kind": "noul",
+            "value": true,
+            "confidence": 0.55,
+            "source": "heuristic-fallback"
+          }
+        }
+      },
+      "p_war_72h": {
+        "kind": "score",
+        "value": 0.276,
+        "confidence": 0.55,
+        "source": "jev-calibrated"
+      },
+      "p_deal_7d": {
+        "kind": "score",
+        "value": 0.542,
+        "confidence": 0.55,
+        "source": "jev-calibrated"
+      },
+      "p_collapse": {
+        "kind": "score",
+        "value": 0.618,
+        "confidence": 0.55,
+        "source": "jev-calibrated"
+      },
+      "oil_realistic": {
+        "kind": "noul",
+        "value": true,
+        "confidence": 0.55,
+        "source": "heuristic-fallback"
+      },
+      "forecast_7_14d": {
+        "war_escalation_14d": {
+          "kind": "score",
+          "value": 0.18,
+          "confidence": 0.55,
+          "source": "heuristic-fallback"
+        },
+        "deal_or_ceasefire_14d": {
+          "kind": "score",
+          "value": 0.6,
+          "confidence": 0.55,
+          "source": "heuristic-fallback"
+        },
+        "iran_econ_collapse_14d": {
+          "kind": "score",
+          "value": 0.87,
+          "confidence": 0.55,
+          "source": "heuristic-fallback"
+        },
+        "political_shift_14d": {
+          "kind": "score",
+          "value": 0.18,
+          "confidence": 0.55,
+          "source": "heuristic-fallback"
+        },
+        "petrol_spike_30d": {
+          "kind": "score",
+          "value": 0.105,
+          "confidence": 0.55,
+          "source": "jev-calibrated"
+        },
+        "supply_disruption_14d": {
+          "kind": "score",
+          "value": 0.558,
+          "confidence": 0.55,
+          "source": "jev-calibrated"
+        }
+      }
+    },
+    "date_range": "117-118 September 2026",
+    "state": {
+      "round": 94,
+      "day_of_war": 310,
+      "military": {
+        "war_intensity": 0,
+        "hormuz_status": "partially_closed",
+        "tanker_incidents_7d": 1074
+      },
+      "diplomacy": {
+        "talks_channel": "open",
+        "deal_on_table": "framework",
+        "unga_contact": true
+      },
+      "oil": {
+        "brent": 180,
+        "brent_forecast": 200,
+        "wti": 172.8,
+        "gold": 2100.0,
+        "ttf_gas": 200,
+        "hormuz_insurance_pct": 20,
+        "us_gas_price": 5.74,
+        "fr_petrol_eur_l": 2.559,
+        "fr_diesel_eur_l": 2.729,
+        "fr_fuel_rebate": 0.12
+      },
+      "domestic": {
+        "us_days_to_midterms": 0,
+        "us_approval_trump": 0.44999999999999996,
+        "us_war_support": 0.1,
+        "iran_inflation": 0.62,
+        "iran_protest_level": 10,
+        "iran_econ_pressure": 9.750000000000002,
+        "regime_stability": 0.05
+      }
+    },
+    "state_full": {
+      "round_no": 94,
+      "date_range": "118-119 September 2026",
+      "day_of_war": 310,
+      "war_intensity": 0,
+      "hormuz_status": "partially_closed",
+      "recent_strikes": [
+        "IDF drones hit IRGC radar site near Isfahan (limited damage)",
+        "Iranian proxies launched rockets at US base in Erbil; no fatalities",
+        "US Navy escorted 3 tankers through Hormuz under IRGCN harassment",
+        "R1: kinetic action by netanyahu",
+        "R1: kinetic action by eu",
+        "R1: kinetic action by trump",
+        "R2: kinetic action by netanyahu",
+        "R2: kinetic action by trump",
+        "R2: kinetic action by us_public",
+        "R2: kinetic action by iranian_people",
+        "R3: kinetic action by trump",
+        "R3: kinetic action by us_public",
+        "R3: kinetic action by iranian_people",
+        "R4: kinetic action by russia",
+        "R4: kinetic action by iran_hardliners",
+        "R4: kinetic action by netanyahu",
+        "R4: kinetic action by trump",
+        "R4: kinetic action by gulf",
+        "R4: kinetic action by turkey",
+        "R4: kinetic action by us_public",
+        "R5: kinetic action by iran_hardliners",
+        "R5: kinetic action by china",
+        "R5: kinetic action by netanyahu",
+        "R5: kinetic action by trump",
+        "R6: kinetic action by russia",
+        "R6: kinetic action by iran_hardliners",
+        "R6: kinetic action by netanyahu",
+        "R6: kinetic action by trump",
+        "R6: kinetic action by gulf",
+        "R6: kinetic action by turkey",
+        "R6: kinetic action by us_public",
+        "R7: kinetic action by russia",
+        "R7: kinetic action by us_public",
+        "R8: kinetic action by netanyahu",
+        "R8: kinetic action by eu",
+        "R8: kinetic action by trump",
+        "R9: kinetic action by russia",
+        "R9: kinetic action by eu",
+        "R9: kinetic action by netanyahu",
+        "R9: kinetic action by turkey",
+        "R10: kinetic action by russia",
+        "R10: kinetic action by iran_hardliners",
+        "R10: kinetic action by netanyahu",
+        "R10: kinetic action by eu",
+        "R10: kinetic action by us_public",
+        "R11: kinetic action by russia",
+        "R11: kinetic action by netanyahu",
+        "R11: kinetic action by eu",
+        "R12: kinetic action by russia",
+        "R12: kinetic action by eu",
+        "R12: kinetic action by us_public",
+        "R13: kinetic action by iran_hardliners",
+        "R13: kinetic action by eu",
+        "R13: kinetic action by netanyahu",
+        "R13: kinetic action by us_public",
+        "R14: kinetic action by russia",
+        "R14: kinetic action by us_public",
+        "R15: kinetic action by russia",
+        "R15: kinetic action by netanyahu",
+        "R15: kinetic action by us_public",
+        "R16: kinetic action by russia",
+        "R16: kinetic action by iran_hardliners",
+        "R16: kinetic action by trump",
+        "R16: kinetic action by netanyahu",
+        "R16: kinetic action by us_public",
+        "R17: kinetic action by russia",
+        "R17: kinetic action by iran_hardliners",
+        "R17: kinetic action by netanyahu",
+        "R17: kinetic action by eu",
+        "R17: kinetic action by trump",
+        "R17: kinetic action by gulf",
+        "R17: kinetic action by us_public",
+        "R18: kinetic action by netanyahu",
+        "R18: kinetic action by trump",
+        "R18: kinetic action by us_public",
+        "R19: kinetic action by russia",
+        "R19: kinetic action by iran_hardliners",
+        "R19: kinetic action by netanyahu",
+        "R20: kinetic action by russia",
+        "R20: kinetic action by iran_hardliners",
+        "R20: kinetic action by netanyahu",
+        "R20: kinetic action by trump",
+        "R20: kinetic action by us_public",
+        "R21: kinetic action by russia",
+        "R21: kinetic action by netanyahu",
+        "R21: kinetic action by trump",
+        "R21: kinetic action by us_public",
+        "R22: kinetic action by russia",
+        "R22: kinetic action by netanyahu",
+        "R22: kinetic action by trump",
+        "R23: kinetic action by russia",
+        "R23: kinetic action by iran_hardliners",
+        "R23: kinetic action by netanyahu",
+        "R23: kinetic action by eu",
+        "R23: kinetic action by trump",
+        "R23: kinetic action by us_public",
+        "R24: kinetic action by russia",
+        "R24: kinetic action by netanyahu",
+        "R24: kinetic action by us_public",
+        "R25: kinetic action by russia",
+        "R25: kinetic action by netanyahu",
+        "R25: kinetic action by trump",
+        "R25: kinetic action by us_public",
+        "R26: kinetic action by russia",
+        "R26: kinetic action by iran_hardliners",
+        "R26: kinetic action by netanyahu",
+        "R26: kinetic action by oil_market",
+        "R27: kinetic action by shipping",
+        "R28: kinetic action by russia",
+        "R28: kinetic action by netanyahu",
+        "R28: kinetic action by china",
+        "R28: kinetic action by gulf",
+        "R28: kinetic action by turkey",
+        "R29: kinetic action by russia",
+        "R29: kinetic action by china",
+        "R29: kinetic action by gulf",
+        "R29: kinetic action by oil_market",
+        "R29: kinetic action by us_public",
+        "R30: kinetic action by russia",
+        "R30: kinetic action by iran_hardliners",
+        "R30: kinetic action by netanyahu",
+        "R30: kinetic action by trump",
+        "R30: kinetic action by us_public",
+        "R30: kinetic action by gulf",
+        "R31: kinetic action by russia",
+        "R31: kinetic action by iran_hardliners",
+        "R31: kinetic action by netanyahu",
+        "R31: kinetic action by eu",
+        "R31: kinetic action by trump",
+        "R32: kinetic action by russia",
+        "R32: kinetic action by trump",
+        "R32: kinetic action by netanyahu",
+        "R32: kinetic action by gulf",
+        "R33: kinetic action by eu",
+        "R33: kinetic action by netanyahu",
+        "R33: kinetic action by trump",
+        "R33: kinetic action by us_public",
+        "R33: kinetic action by gulf",
+        "R33: kinetic action by turkey",
+        "R34: kinetic action by russia",
+        "R34: kinetic action by iran_hardliners",
+        "R34: kinetic action by netanyahu",
+        "R34: kinetic action by china",
+        "R34: kinetic action by trump",
+        "R34: kinetic action by gulf",
+        "R34: kinetic action by us_public",
+        "R35: kinetic action by russia",
+        "R35: kinetic action by iran_hardliners",
+        "R35: kinetic action by netanyahu",
+        "R36: kinetic action by iran_hardliners",
+        "R36: kinetic action by trump",
+        "R36: kinetic action by us_public",
+        "R37: kinetic action by russia",
+        "R37: kinetic action by iran_hardliners",
+        "R37: kinetic action by netanyahu",
+        "R37: kinetic action by trump",
+        "R37: kinetic action by turkey",
+        "R37: kinetic action by us_public",
+        "R37: kinetic action by shipping",
+        "R38: kinetic action by russia",
+        "R38: kinetic action by iran_hardliners",
+        "R38: kinetic action by trump",
+        "R38: kinetic action by gulf",
+        "R38: kinetic action by us_public",
+        "R38: kinetic action by shipping",
+        "R39: kinetic action by russia",
+        "R39: kinetic action by iran_hardliners",
+        "R39: kinetic action by trump",
+        "R39: kinetic action by us_public",
+        "R39: kinetic action by gulf",
+        "R39: kinetic action by turkey",
+        "R40: kinetic action by russia",
+        "R40: kinetic action by china",
+        "R40: kinetic action by eu",
+        "R40: kinetic action by us_public",
+        "R41: kinetic action by russia",
+        "R41: kinetic action by iran_hardliners",
+        "R41: kinetic action by trump",
+        "R41: kinetic action by us_public",
+        "R41: kinetic action by gulf",
+        "R41: kinetic action by turkey",
+        "R42: kinetic action by russia",
+        "R42: kinetic action by iran_hardliners",
+        "R42: kinetic action by netanyahu",
+        "R42: kinetic action by trump",
+        "R42: kinetic action by gulf",
+        "R42: kinetic action by turkey",
+        "R42: kinetic action by us_public",
+        "R43: kinetic action by russia",
+        "R43: kinetic action by netanyahu",
+        "R43: kinetic action by china",
+        "R43: kinetic action by gulf",
+        "R44: kinetic action by iran_hardliners",
+        "R44: kinetic action by netanyahu",
+        "R44: kinetic action by trump",
+        "R44: kinetic action by oil_market",
+        "R44: kinetic action by us_public",
+        "R45: kinetic action by russia",
+        "R45: kinetic action by trump",
+        "R46: kinetic action by russia",
+        "R46: kinetic action by netanyahu",
+        "R46: kinetic action by gulf",
+        "R47: kinetic action by russia",
+        "R47: kinetic action by iran_hardliners",
+        "R47: kinetic action by netanyahu",
+        "R47: kinetic action by china",
+        "R47: kinetic action by shipping",
+        "R48: kinetic action by russia",
+        "R48: kinetic action by netanyahu",
+        "R48: kinetic action by trump",
+        "R48: kinetic action by us_public",
+        "R49: kinetic action by russia",
+        "R49: kinetic action by netanyahu",
+        "R49: kinetic action by trump",
+        "R49: kinetic action by turkey",
+        "R50: kinetic action by russia",
+        "R50: kinetic action by netanyahu",
+        "R50: kinetic action by trump",
+        "R50: kinetic action by us_public",
+        "R51: kinetic action by netanyahu",
+        "R51: kinetic action by trump",
+        "R51: kinetic action by gulf",
+        "R51: kinetic action by turkey",
+        "R52: kinetic action by russia",
+        "R52: kinetic action by iran_hardliners",
+        "R52: kinetic action by trump",
+        "R52: kinetic action by china",
+        "R52: kinetic action by eu",
+        "R52: kinetic action by iran_public",
+        "R52: kinetic action by netanyahu",
+        "R52: kinetic action by gulf",
+        "R52: kinetic action by us_public",
+        "R53: kinetic action by russia",
+        "R53: kinetic action by iran_hardliners",
+        "R53: kinetic action by netanyahu",
+        "R53: kinetic action by trump",
+        "R53: kinetic action by gulf",
+        "R54: kinetic action by netanyahu",
+        "R54: kinetic action by eu",
+        "R55: kinetic action by russia",
+        "R55: kinetic action by iran_hardliners",
+        "R55: kinetic action by netanyahu",
+        "R55: kinetic action by china",
+        "R55: kinetic action by eu",
+        "R55: kinetic action by trump",
+        "R55: kinetic action by gulf",
+        "R55: kinetic action by oil_market",
+        "R55: kinetic action by us_public",
+        "R55: kinetic action by gas_market",
+        "R55: kinetic action by shipping",
+        "R56: kinetic action by russia",
+        "R56: kinetic action by netanyahu",
+        "R56: kinetic action by us_public",
+        "R56: kinetic action by gulf",
+        "R56: kinetic action by turkey",
+        "R57: kinetic action by iran_hardliners",
+        "R57: kinetic action by eu",
+        "R57: kinetic action by netanyahu",
+        "R57: kinetic action by gulf",
+        "R58: kinetic action by russia",
+        "R58: kinetic action by iran_hardliners",
+        "R58: kinetic action by netanyahu",
+        "R58: kinetic action by china",
+        "R58: kinetic action by eu",
+        "R58: kinetic action by trump",
+        "R59: kinetic action by trump",
+        "R59: kinetic action by netanyahu",
+        "R59: kinetic action by gulf",
+        "R59: kinetic action by turkey",
+        "R59: kinetic action by us_public",
+        "R60: kinetic action by russia",
+        "R60: kinetic action by iran_hardliners",
+        "R60: kinetic action by netanyahu",
+        "R60: kinetic action by trump",
+        "R60: kinetic action by gulf",
+        "R61: kinetic action by russia",
+        "R61: kinetic action by iran_hardliners",
+        "R61: kinetic action by eu",
+        "R61: kinetic action by netanyahu",
+        "R61: kinetic action by gulf",
+        "R61: kinetic action by turkey",
+        "R61: kinetic action by us_public",
+        "R62: kinetic action by russia",
+        "R62: kinetic action by gulf",
+        "R62: kinetic action by turkey",
+        "R62: kinetic action by us_public",
+        "R63: kinetic action by russia",
+        "R63: kinetic action by iran_hardliners",
+        "R63: kinetic action by us_public",
+        "R63: kinetic action by gulf",
+        "R64: kinetic action by russia",
+        "R64: kinetic action by iran_hardliners",
+        "R64: kinetic action by netanyahu",
+        "R64: kinetic action by eu",
+        "R64: kinetic action by trump",
+        "R64: kinetic action by gulf",
+        "R64: kinetic action by us_public",
+        "R64: kinetic action by oil_market",
+        "R65: kinetic action by russia",
+        "R65: kinetic action by iran_hardliners",
+        "R65: kinetic action by netanyahu",
+        "R65: kinetic action by trump",
+        "R65: kinetic action by us_public",
+        "R65: kinetic action by gas_market",
+        "R66: kinetic action by russia",
+        "R66: kinetic action by netanyahu",
+        "R66: kinetic action by china",
+        "R66: kinetic action by eu",
+        "R66: kinetic action by shipping",
+        "R67: kinetic action by russia",
+        "R67: kinetic action by us_public",
+        "R67: kinetic action by trump",
+        "R68: kinetic action by russia",
+        "R68: kinetic action by iran_hardliners",
+        "R68: kinetic action by netanyahu",
+        "R68: kinetic action by china",
+        "R68: kinetic action by eu",
+        "R68: kinetic action by trump",
+        "R68: kinetic action by turkey",
+        "R68: kinetic action by us_public",
+        "R69: kinetic action by russia",
+        "R69: kinetic action by iran_hardliners",
+        "R69: kinetic action by gulf",
+        "R69: kinetic action by oil_market",
+        "R69: kinetic action by gas_market",
+        "R69: kinetic action by shipping",
+        "R70: kinetic action by russia",
+        "R70: kinetic action by netanyahu",
+        "R70: kinetic action by china",
+        "R70: kinetic action by gulf",
+        "R70: kinetic action by oil_market",
+        "R70: kinetic action by us_public",
+        "R70: kinetic action by gas_market",
+        "R70: kinetic action by shipping",
+        "R71: kinetic action by russia",
+        "R71: kinetic action by iran_hardliners",
+        "R71: kinetic action by netanyahu",
+        "R71: kinetic action by china",
+        "R71: kinetic action by eu",
+        "R71: kinetic action by turkey",
+        "R72: kinetic action by russia",
+        "R72: kinetic action by netanyahu",
+        "R72: kinetic action by china",
+        "R72: kinetic action by eu",
+        "R72: kinetic action by trump",
+        "R72: kinetic action by us_public",
+        "R72: kinetic action by gas_market",
+        "R73: kinetic action by iran_hardliners",
+        "R73: kinetic action by netanyahu",
+        "R73: kinetic action by eu",
+        "R73: kinetic action by trump",
+        "R73: kinetic action by gulf",
+        "R73: kinetic action by us_public",
+        "R74: kinetic action by russia",
+        "R74: kinetic action by eu",
+        "R74: kinetic action by gulf",
+        "R74: kinetic action by turkey",
+        "R74: kinetic action by us_public",
+        "R75: kinetic action by netanyahu",
+        "R75: kinetic action by eu",
+        "R75: kinetic action by trump",
+        "R75: kinetic action by gulf",
+        "R75: kinetic action by oil_market",
+        "R75: kinetic action by us_public",
+        "R75: kinetic action by gas_market",
+        "R76: kinetic action by eu",
+        "R76: kinetic action by gulf",
+        "R76: kinetic action by us_public",
+        "R77: kinetic action by iran_hardliners",
+        "R77: kinetic action by netanyahu",
+        "R77: kinetic action by eu",
+        "R77: kinetic action by turkey",
+        "R78: kinetic action by russia",
+        "R78: kinetic action by trump",
+        "R78: kinetic action by eu",
+        "R78: kinetic action by netanyahu",
+        "R78: kinetic action by us_public",
+        "R79: kinetic action by russia",
+        "R79: kinetic action by iran_hardliners",
+        "R79: kinetic action by netanyahu",
+        "R79: kinetic action by eu",
+        "R79: kinetic action by gulf",
+        "R79: kinetic action by oil_market",
+        "R79: kinetic action by gas_market",
+        "R79: kinetic action by shipping",
+        "R80: kinetic action by russia",
+        "R80: kinetic action by iran_hardliners",
+        "R80: kinetic action by netanyahu",
+        "R80: kinetic action by gulf",
+        "R81: kinetic action by russia",
+        "R81: kinetic action by iran_hardliners",
+        "R81: kinetic action by netanyahu",
+        "R81: kinetic action by trump",
+        "R81: kinetic action by turkey",
+        "R81: kinetic action by shipping",
+        "R82: kinetic action by russia",
+        "R82: kinetic action by iran_hardliners",
+        "R82: kinetic action by netanyahu",
+        "R82: kinetic action by china",
+        "R83: kinetic action by russia",
+        "R83: kinetic action by iran_hardliners",
+        "R83: kinetic action by netanyahu",
+        "R83: kinetic action by trump",
+        "R83: kinetic action by oil_market",
+        "R84: kinetic action by russia",
+        "R84: kinetic action by iran_hardliners",
+        "R84: kinetic action by netanyahu",
+        "R84: kinetic action by gulf",
+        "R85: kinetic action by russia",
+        "R85: kinetic action by iran_hardliners",
+        "R85: kinetic action by netanyahu",
+        "R85: kinetic action by eu",
+        "R85: kinetic action by trump",
+        "R85: kinetic action by turkey",
+        "R85: kinetic action by us_public",
+        "R85: kinetic action by oil_market",
+        "R86: kinetic action by russia",
+        "R86: kinetic action by iran_hardliners",
+        "R86: kinetic action by netanyahu",
+        "R86: kinetic action by china",
+        "R87: kinetic action by iran_hardliners",
+        "R87: kinetic action by netanyahu",
+        "R87: kinetic action by oil_market",
+        "R87: kinetic action by shipping",
+        "R87: kinetic action by us_public",
+        "R88: kinetic action by iran_hardliners",
+        "R88: kinetic action by trump",
+        "R88: kinetic action by us_public",
+        "R89: kinetic action by russia",
+        "R89: kinetic action by iran_hardliners",
+        "R89: kinetic action by netanyahu",
+        "R89: kinetic action by eu",
+        "R89: kinetic action by iran_public",
+        "R89: kinetic action by turkey",
+        "R90: kinetic action by russia",
+        "R90: kinetic action by iran_hardliners",
+        "R90: kinetic action by netanyahu",
+        "R90: kinetic action by china",
+        "R90: kinetic action by eu",
+        "R90: kinetic action by turkey"
+      ],
+      "tanker_incidents_7d": 1074,
+      "talks_channel": "open",
+      "deal_on_table": "framework",
+      "unga_contact": true,
+      "brent": 180,
+      "brent_forecast": 200,
+      "wti": 172.8,
+      "gold": 2100.0000007320173,
+      "ttf_gas": 200,
+      "hormuz_insurance": 20,
+      "us_gas_price": 5.74,
+      "fr_petrol": 2.5585248807031347,
+      "fr_diesel": 2.728504772619314,
+      "fr_fuel_rebate": 0.12297211582377018,
+      "us_days_to_midterms": 0,
+      "us_approval_trump": 0.44999999999999996,
+      "us_war_support": 0.1,
+      "iran_inflation": 0.62,
+      "rial_black_market": 9299714802.408989,
+      "iran_protest_level": 10,
+      "iran_econ_pressure": 9.750000000000002,
+      "regime_stability": 0.05,
+      "israel_coalition_stress": 0.4,
+      "headlines": [
+        "Trump at UNGA: 'binary choice \u2014 a deal that lets Iran rebuild, or we annihilate the Islamic Republic'",
+        "Witkoff/Kushner met Iranian officials on UNGA sidelines",
+        "Mojtaba Khamenei consolidates as Supreme Leader; IRGC dominates war cabinet",
+        "IAEA: Iran retains ~60% enriched stockpile at unknown sites"
+      ]
+    },
+    "snapshots": [
+      {
+        "step": 0,
+        "label": "start",
+        "brent": 180,
+        "forecast": 200,
+        "war": 0,
+        "gas": 5.74,
+        "war_support": 0.1,
+        "protests": 10,
+        "cohesion": 0.05,
+        "econ_pressure": 9.6,
+        "hormuz": "partially_closed",
+        "event": "round opens",
+        "esc_denied": false,
+        "review": false
+      },
+      {
+        "step": 1,
+        "label": "IR-PUBLIC",
+        "brent": 180,
+        "forecast": 200,
+        "war": 0,
+        "gas": 5.74,
+        "war_support": 0.1,
+        "protests": 10,
+        "cohesion": 0.05,
+        "econ_pressure": 9.6,
+        "hormuz": "partially_closed",
+        "event": "IR-PUBLIC: hold position",
+        "esc_denied": false,
+        "review": true,
+        "influence": 0.0
+      },
+      {
+        "step": 2,
+        "label": "OIL",
+        "brent": 180,
+        "forecast": 200,
+        "war": 0,
+        "gas": 5.74,
+        "war_support": 0.1,
+        "protests": 10,
+        "cohesion": 0.05,
+        "econ_pressure": 9.6,
+        "hormuz": "partially_closed",
+        "event": "OIL: hold position",
+        "esc_denied": false,
+        "review": true,
+        "influence": 0.0
+      },
+      {
+        "step": 3,
+        "label": "SHIPPING",
+        "brent": 180,
+        "forecast": 200,
+        "war": 0,
+        "gas": 5.74,
+        "war_support": 0.1,
+        "protests": 10,
+        "cohesion": 0.05,
+        "econ_pressure": 9.6,
+        "hormuz": "partially_closed",
+        "event": "SHIPPING: hold position",
+        "esc_denied": false,
+        "review": true,
+        "influence": 0.0
+      },
+      {
+        "step": 4,
+        "label": "US",
+        "brent": 180,
+        "forecast": 200,
+        "war": 0,
+        "gas": 5.74,
+        "war_support": 0.1,
+        "protests": 10,
+        "cohesion": 0.05,
+        "econ_pressure": 9.6,
+        "hormuz": "partially_closed",
+        "event": "US: hold position",
+        "esc_denied": false,
+        "review": true,
+        "influence": 0.0
+      },
+      {
+        "step": 5,
+        "label": "GAS",
+        "brent": 180,
+        "forecast": 200,
+        "war": 0,
+        "gas": 5.74,
+        "war_support": 0.1,
+        "protests": 10,
+        "cohesion": 0.05,
+        "econ_pressure": 9.6,
+        "hormuz": "partially_closed",
+        "event": "GAS: hold position",
+        "esc_denied": false,
+        "review": true,
+        "influence": 0.0
+      },
+      {
+        "step": 6,
+        "label": "IRAN",
+        "brent": 180,
+        "forecast": 200,
+        "war": 0,
+        "gas": 5.74,
+        "war_support": 0.1,
+        "protests": 10,
+        "cohesion": 0.05,
+        "econ_pressure": 9.6,
+        "hormuz": "partially_closed",
+        "event": "IRAN: hold position",
+        "esc_denied": false,
+        "review": true,
+        "influence": 0.0
+      },
+      {
+        "step": 7,
+        "label": "MARKETS",
+        "brent": 180,
+        "forecast": 200,
+        "war": 0,
+        "gas": 5.74,
+        "war_support": 0.1,
+        "protests": 10,
+        "cohesion": 0.05,
+        "econ_pressure": 9.6,
+        "hormuz": "partially_closed",
+        "event": "MARKETS: hold position",
+        "esc_denied": false,
+        "review": true,
+        "influence": 0.0
+      },
+      {
+        "step": 8,
+        "label": "ISRAEL",
+        "brent": 180,
+        "forecast": 200,
+        "war": 0,
+        "gas": 5.74,
+        "war_support": 0.1,
+        "protests": 10,
+        "cohesion": 0.05,
+        "econ_pressure": 9.6,
+        "hormuz": "partially_closed",
+        "event": "ISRAEL: hold position",
+        "esc_denied": false,
+        "review": true,
+        "influence": 0.0
+      },
+      {
+        "step": 9,
+        "label": "CHINA",
+        "brent": 180,
+        "forecast": 200,
+        "war": 0,
+        "gas": 5.74,
+        "war_support": 0.1,
+        "protests": 10,
+        "cohesion": 0.05,
+        "econ_pressure": 9.6,
+        "hormuz": "partially_closed",
+        "event": "CHINA: hold position",
+        "esc_denied": false,
+        "review": true,
+        "influence": 0.0
+      },
+      {
+        "step": 10,
+        "label": "MEDIA",
+        "brent": 180,
+        "forecast": 200,
+        "war": 0,
+        "gas": 5.74,
+        "war_support": 0.1,
+        "protests": 10,
+        "cohesion": 0.05,
+        "econ_pressure": 9.6,
+        "hormuz": "partially_closed",
+        "event": "MEDIA: hold position",
+        "esc_denied": false,
+        "review": true,
+        "influence": 0.0
+      },
+      {
+        "step": 11,
+        "label": "GULF",
+        "brent": 180,
+        "forecast": 200,
+        "war": 0,
+        "gas": 5.74,
+        "war_support": 0.1,
+        "protests": 10,
+        "cohesion": 0.05,
+        "econ_pressure": 9.6,
+        "hormuz": "partially_closed",
+        "event": "GULF: hold position",
+        "esc_denied": false,
+        "review": true,
+        "influence": 0.0
+      },
+      {
+        "step": 12,
+        "label": "RUSSIA",
+        "brent": 180,
+        "forecast": 200,
+        "war": 0,
+        "gas": 5.74,
+        "war_support": 0.1,
+        "protests": 10,
+        "cohesion": 0.05,
+        "econ_pressure": 9.6,
+        "hormuz": "partially_closed",
+        "event": "RUSSIA: hold position",
+        "esc_denied": false,
+        "review": true,
+        "influence": 0.0
+      },
+      {
+        "step": 13,
+        "label": "US-PUBLIC",
+        "brent": 180,
+        "forecast": 200,
+        "war": 0,
+        "gas": 5.74,
+        "war_support": 0.1,
+        "protests": 10,
+        "cohesion": 0.05,
+        "econ_pressure": 9.6,
+        "hormuz": "partially_closed",
+        "event": "US-PUBLIC: hold position",
+        "esc_denied": false,
+        "review": true,
+        "influence": 0.0
+      },
+      {
+        "step": 14,
+        "label": "end",
+        "brent": 180,
+        "forecast": 200,
+        "war": 0,
+        "gas": 5.74,
+        "war_support": 0.1,
+        "protests": 10,
+        "cohesion": 0.05,
+        "econ_pressure": 9.75,
+        "hormuz": "partially_closed",
+        "event": "round closes \u2014 Jev scores locked",
+        "esc_denied": false,
+        "review": false
+      }
+    ],
+    "transcript": [
+      "Iranian Public (street + sentiment tracker): (offline mode \u2014 LLM call skipped) | ACTION: hold position",
+      "Oil Market Agent: (offline mode \u2014 LLM call skipped) | ACTION: hold position",
+      "Shipping & Insurance Market Agent: (offline mode \u2014 LLM call skipped) | ACTION: hold position",
+      "United States (Trump White House): (offline mode \u2014 LLM call skipped) | ACTION: hold position",
+      "Natural Gas / LNG Market Agent: (offline mode \u2014 LLM call skipped) | ACTION: hold position",
+      "Iran (IRGC + Mojtaba Khamenei faction): (offline mode \u2014 LLM call skipped) | ACTION: hold position",
+      "Financial Markets Agent: (offline mode \u2014 LLM call skipped) | ACTION: hold position",
+      "Israel (Netanyahu government): (offline mode \u2014 LLM call skipped) | ACTION: hold position",
+      "China (Xi circle / MFA voice): (offline mode \u2014 LLM call skipped) | ACTION: hold position",
+      "Global Media Environment: (offline mode \u2014 LLM call skipped) | ACTION: hold position",
+      "Gulf States (Saudi-led GCC voice): (offline mode \u2014 LLM call skipped) | ACTION: hold position",
+      "Russia (Kremlin / Lavrov voice): (offline mode \u2014 LLM call skipped) | ACTION: hold position",
+      "US Public Opinion / Midterm Voters: (offline mode \u2014 LLM call skipped) | ACTION: hold position"
+    ],
+    "actions": [
+      {
+        "agent": "iran_public",
+        "xref": "",
+        "statement": "(offline mode \u2014 LLM call skipped)",
+        "reasoning": "",
+        "action": "hold position",
+        "escalation": false
+      },
+      {
+        "agent": "oil_market",
+        "xref": "",
+        "statement": "(offline mode \u2014 LLM call skipped)",
+        "reasoning": "",
+        "action": "hold position",
+        "escalation": false
+      },
+      {
+        "agent": "shipping",
+        "xref": "",
+        "statement": "(offline mode \u2014 LLM call skipped)",
+        "reasoning": "",
+        "action": "hold position",
+        "escalation": false
+      },
+      {
+        "agent": "trump",
+        "xref": "",
+        "statement": "(offline mode \u2014 LLM call skipped)",
+        "reasoning": "",
+        "action": "hold position",
+        "escalation": false
+      },
+      {
+        "agent": "gas_market",
+        "xref": "",
+        "statement": "(offline mode \u2014 LLM call skipped)",
+        "reasoning": "",
+        "action": "hold position",
+        "escalation": false
+      },
+      {
+        "agent": "iran_hardliners",
+        "xref": "",
+        "statement": "(offline mode \u2014 LLM call skipped)",
+        "reasoning": "",
+        "action": "hold position",
+        "escalation": false
+      },
+      {
+        "agent": "markets",
+        "xref": "",
+        "statement": "(offline mode \u2014 LLM call skipped)",
+        "reasoning": "",
+        "action": "hold position",
+        "escalation": false
+      },
+      {
+        "agent": "netanyahu",
+        "xref": "",
+        "statement": "(offline mode \u2014 LLM call skipped)",
+        "reasoning": "",
+        "action": "hold position",
+        "escalation": false
+      },
+      {
+        "agent": "china",
+        "xref": "",
+        "statement": "(offline mode \u2014 LLM call skipped)",
+        "reasoning": "",
+        "action": "hold position",
+        "escalation": false
+      },
+      {
+        "agent": "media",
+        "xref": "",
+        "statement": "(offline mode \u2014 LLM call skipped)",
+        "reasoning": "",
+        "action": "hold position",
+        "escalation": false
+      },
+      {
+        "agent": "gulf",
+        "xref": "",
+        "statement": "(offline mode \u2014 LLM call skipped)",
+        "reasoning": "",
+        "action": "hold position",
+        "escalation": false
+      },
+      {
+        "agent": "russia",
+        "xref": "",
+        "statement": "(offline mode \u2014 LLM call skipped)",
+        "reasoning": "",
+        "action": "hold position",
+        "escalation": false
+      },
+      {
+        "agent": "us_public",
+        "xref": "",
+        "statement": "(offline mode \u2014 LLM call skipped)",
+        "reasoning": "",
+        "action": "hold position",
+        "escalation": false
+      }
+    ],
+    "live_wire": [
+      "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
+      "UPDATES: US War on Iran, Day 258 - \"Minor\" US Strikes on Qeshm Island in the Strait of Hormuz - EA WorldView",
+      "Hormuz Strait will \u2018never return\u2019 to pre-war status, Iran\u2019s Ghalibaf says - Al Jazeera",
+      "Rubio says U.S. has \"no need\" to restart combat operations in Iran - CBS News",
+      "Iran War Brings US Close to Net Crude Exporter for First Time Since World War Two - EnergyNow.com"
+    ],
+    "xfeed": {
+      "provider": "real-x",
+      "state": "stale-cache",
+      "n_posts": 50,
+      "sources": [
+        "x:syndication"
+      ],
+      "collected_at": "2026-11-11T22:59:59Z",
+      "error": "syndication/@realDonaldTrump: HTTP 429; nitter/nitter.net: HTTPError; nitter/nitter.privacydev.net: URLError",
+      "cache_path": "/home/zahra/Iran_US_conflict/cache/xfeed/real-x_e966d1c314.json",
+      "posts": [
+        {
+          "post_id": "2117697505270100335",
+          "author": "realDonaldTrump",
+          "text": "FIND YOUR ELECTION DAY VOTING LOCATION HERE! https://t.co/o3mbQ7ewdU",
+          "created_at": "Tue Nov 03 19:16:44 +0000 2026",
+          "url": "/realDonaldTrump/status/2117697505270100335",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719664008851609",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF ALABAMA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement\u2026",
+          "created_at": "Tue Nov 03 20:44:47 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719664008851609",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117345168496169036",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF ALABAMA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/CKrjCmURKi https://t.co/du0sEtyWU7",
+          "created_at": "Mon Nov 02 19:56:41 +0000 2026",
+          "url": "/realDonaldTrump/status/2117345168496169036",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719653078220972",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF ALASKA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement\u2026",
+          "created_at": "Tue Nov 03 20:44:45 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719653078220972",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117345085947777431",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF ALASKA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/FZ9Xh9aXPK https://t.co/tHkhIMNvex",
+          "created_at": "Mon Nov 02 19:56:21 +0000 2026",
+          "url": "/realDonaldTrump/status/2117345085947777431",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719643515412550",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF ARIZONA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement\u2026",
+          "created_at": "Tue Nov 03 20:44:42 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719643515412550",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117345016129413341",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF ARIZONA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/BACHtLTrCQ https://t.co/CNQumZWlL6",
+          "created_at": "Mon Nov 02 19:56:04 +0000 2026",
+          "url": "/realDonaldTrump/status/2117345016129413341",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719632958439666",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF ARKANSAS, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsemen\u2026",
+          "created_at": "Tue Nov 03 20:44:40 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719632958439666",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117344811686494316",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF ARKANSAS, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/aRxnNKfieb https://t.co/qypXShqTJd",
+          "created_at": "Mon Nov 02 19:55:16 +0000 2026",
+          "url": "/realDonaldTrump/status/2117344811686494316",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719622057173270",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF CALIFORNIA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsem\u2026",
+          "created_at": "Tue Nov 03 20:44:37 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719622057173270",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117344620065755479",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF CALIFORNIA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/bznQ8FMHS2 https://t.co/7JCOZhgPqH",
+          "created_at": "Mon Nov 02 19:54:30 +0000 2026",
+          "url": "/realDonaldTrump/status/2117344620065755479",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719611588136976",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF COLORADO, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsemen\u2026",
+          "created_at": "Tue Nov 03 20:44:35 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719611588136976",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117344512192262464",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF COLORADO, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/2TZNJmSoVc https://t.co/gjIqVahWED",
+          "created_at": "Mon Nov 02 19:54:04 +0000 2026",
+          "url": "/realDonaldTrump/status/2117344512192262464",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719600796180942",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF FLORIDA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement\u2026",
+          "created_at": "Tue Nov 03 20:44:32 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719600796180942",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117344285674906050",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF FLORIDA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/CwxEky3qOr https://t.co/sJQKUWWYth",
+          "created_at": "Mon Nov 02 19:53:10 +0000 2026",
+          "url": "/realDonaldTrump/status/2117344285674906050",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719592130973893",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF GEORGIA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement\u2026",
+          "created_at": "Tue Nov 03 20:44:30 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719592130973893",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117344194260079035",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF GEORGIA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/xwQU6eorQh https://t.co/wXiiITQusq",
+          "created_at": "Mon Nov 02 19:52:48 +0000 2026",
+          "url": "/realDonaldTrump/status/2117344194260079035",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719580386713839",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF IDAHO, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement a\u2026",
+          "created_at": "Tue Nov 03 20:44:27 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719580386713839",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117344056296784140",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF IDAHO, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/PrVlUuLqv8 https://t.co/GoQmfuj9mA",
+          "created_at": "Mon Nov 02 19:52:16 +0000 2026",
+          "url": "/realDonaldTrump/status/2117344056296784140",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719569871557097",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF ILLINOIS, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsemen\u2026",
+          "created_at": "Tue Nov 03 20:44:25 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719569871557097",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117343963359449271",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF ILLINOIS, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/pQhJco9eZg https://t.co/co0wxXj6F8",
+          "created_at": "Mon Nov 02 19:51:53 +0000 2026",
+          "url": "/realDonaldTrump/status/2117343963359449271",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719543342649774",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF INDIANA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement\u2026",
+          "created_at": "Tue Nov 03 20:44:19 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719543342649774",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117357564073496823",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF INDIANA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/oC33wScOTF https://t.co/x0V2IhQda0",
+          "created_at": "Mon Nov 02 20:45:56 +0000 2026",
+          "url": "/realDonaldTrump/status/2117357564073496823",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719506915295602",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF IOWA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement an\u2026",
+          "created_at": "Tue Nov 03 20:44:10 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719506915295602",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117343760615084255",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF IOWA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/SYd0xCuKPl https://t.co/bFE1IeJLZk",
+          "created_at": "Mon Nov 02 19:51:05 +0000 2026",
+          "url": "/realDonaldTrump/status/2117343760615084255",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719478264103152",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF KANSAS, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement\u2026",
+          "created_at": "Tue Nov 03 20:44:03 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719478264103152",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117343599436427689",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF KANSAS, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/kOlCyhMlHm https://t.co/C1z93sqS2x",
+          "created_at": "Mon Nov 02 19:50:27 +0000 2026",
+          "url": "/realDonaldTrump/status/2117343599436427689",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719467308245151",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF KENTUCKY, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsemen\u2026",
+          "created_at": "Tue Nov 03 20:44:00 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719467308245151",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117343513751044423",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF KENTUCKY, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/GCKdaGsSij https://t.co/ugPm5YVGgd",
+          "created_at": "Mon Nov 02 19:50:06 +0000 2026",
+          "url": "/realDonaldTrump/status/2117343513751044423",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719456852181069",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF LOUISIANA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorseme\u2026",
+          "created_at": "Tue Nov 03 20:43:58 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719456852181069",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117343443118875087",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF LOUISIANA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/eO6OHtaC4v https://t.co/9CfvkwCm6i",
+          "created_at": "Mon Nov 02 19:49:49 +0000 2026",
+          "url": "/realDonaldTrump/status/2117343443118875087",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719445879603348",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF MARYLAND, GET OUT AND VOTE for Congressman Andy Harris! He has my Complete and Total Endorsemen\u2026",
+          "created_at": "Tue Nov 03 20:43:55 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719445879603348",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117343277615927668",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF MARYLAND, GET OUT AND VOTE for Congressman Andy Harris! He has my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/y1mF3zxz2K https://t.co/JhOTmLrSNi",
+          "created_at": "Mon Nov 02 19:49:10 +0000 2026",
+          "url": "/realDonaldTrump/status/2117343277615927668",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719436064924046",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF MICHIGAN, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsemen\u2026",
+          "created_at": "Tue Nov 03 20:43:53 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719436064924046",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117343105317843116",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF MICHIGAN, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/pR1I8dMcwB https://t.co/B4T8AYALJ6",
+          "created_at": "Mon Nov 02 19:48:29 +0000 2026",
+          "url": "/realDonaldTrump/status/2117343105317843116",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719425281396934",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF MINNESOTA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorseme\u2026",
+          "created_at": "Tue Nov 03 20:43:50 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719425281396934",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117343024518951382",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF MINNESOTA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/ocWAx1DscU https://t.co/Eb7fPq4QzL",
+          "created_at": "Mon Nov 02 19:48:10 +0000 2026",
+          "url": "/realDonaldTrump/status/2117343024518951382",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719415664062891",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF MISSISSIPPI, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorse\u2026",
+          "created_at": "Tue Nov 03 20:43:48 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719415664062891",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117342899692020176",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF MISSISSIPPI, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/OVEe5Uux7b https://t.co/nnPDVrZfCT",
+          "created_at": "Mon Nov 02 19:47:40 +0000 2026",
+          "url": "/realDonaldTrump/status/2117342899692020176",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117719404473692433",
+          "author": "realDonaldTrump",
+          "text": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF MISSOURI, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsemen\u2026",
+          "created_at": "Tue Nov 03 20:43:46 +0000 2026",
+          "url": "/realDonaldTrump/status/2117719404473692433",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2117342818452562296",
+          "author": "realDonaldTrump",
+          "text": "TO THE GREAT PEOPLE OF MISSOURI, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP https://t.co/TxqxAEzg8c https://t.co/qo1HlbMRii",
+          "created_at": "Mon Nov 02 19:47:20 +0000 2026",
+          "url": "/realDonaldTrump/status/2117342818452562296",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2115381235128369551",
+          "author": "netanyahu",
+          "text": "\u05ea\u05d5\u05d3\u05d4 \u05e8\u05d1\u05d4 \u05dc\u05db\u05dd \ud83c\uddee\ud83c\uddf1 https://t.co/RqarS9MLoR",
+          "created_at": "Wed Oct 28 09:52:42 +0000 2026",
+          "url": "/netanyahu/status/2115381235128369551",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2119729548744863927",
+          "author": "netanyahu",
+          "text": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3: \u05d4\u05d4\u05e7\u05dc\u05d8\u05d5\u05ea \u05d4\u05de\u05d8\u05dc\u05d8\u05dc\u05d5\u05ea \u05e9\u05e4\u05e8\u05e1\u05dd \u05e2\u05de\u05d9\u05ea \u05e1\u05d2\u05dc \u05e9\u05dc \u05e8\u05d0\u05e9 \u05d0\u05d2\u05e3 \u05d4\u05d7\u05e7\u05d9\u05e8\u05d5\u05ea \u05d1\u05de\u05e9\u05d8\u05e8\u05d4 \u05d1\u05d5\u05e2\u05d6 \u05d1\u05dc\u05d8 \u05e6\u05e8\u05d9\u05db\u05d5\u05ea \u05dc\u05d4\u05d3\u05d9\u05e8 \u05e9\u05d9\u05e0\u05d4 \u05de\u05e2\u05d9\u05e0\u05d9\u05d5 \u05e9\u05dc \u05db\u05dc \u05d0\u05d6\u05e8\u05d7 \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e8\u05d0\u05e9 \u05d0\u05d2\u05e3 \u05d4\u05d7\u05e7\u05d9\u05e8\u05d5\u05ea \u05de\u05ea\u05d0\u05e8 \u05e9\u05d9\u05d8\u05d5\u05ea \u05d7\u05e7\u05d9\u05e8\u05d4 \u05e9\u05e7\u05d9\u05d9\u05de\u05d5\u05ea \u05d1\u05de\u05e9\u05d8\u05e8\u05d9\u05dd \u05d0\u05e4\u05dc\u05d9\u05dd: \u05f4\u05db\u05dc \u05d1\u05e8 \u05d3\u05e2\u05ea \u05de\u05d1\u05d9\u05df \u05e9\u05d6\u05d4 \u05ea\u05d9\u05e7\u05d9 \u05de\u05d2\u05d9\u05e8\u05d4, \u05de\u05e0\u05d5\u05e4\u05d9 \u05dc\u05d7\u05e5 \u05e9\u05de\u05e4\u05e2\u05d9\u05dc\u05d9\u05dd \u05e2\u05dc \u05d0\u05e0\u05e9\u05d9\u05dd, \u05e9\u05de\u05d9\u05dd \u05d1\u05de\u05d2\u05d9\u05e8\u05d4 \u05d5\u05dc\u05d0 \u05e2\u05d5\u05e9\u05d9\u05dd \u05e2\u05dd \u05d6\u05d4 \u05db\u05dc\u05d5\u05dd \u05e9\u05e0\u05d4, \u05d0\u05d7\u05e8\u05d9 https://t.co/nGOAPRYOq2",
+          "created_at": "Mon Nov 09 09:51:21 +0000 2026",
+          "url": "/netanyahu/status/2119729548744863927",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2119538021850898856",
+          "author": "netanyahu",
+          "text": "\u05d0\u05d9\u05ea\u05dd \u05d4\u05dd \u05e8\u05d5\u05e6\u05d9\u05dd \u05dc\u05d4\u05e7\u05d9\u05dd \u05de\u05de\u05e9\u05dc\u05d4. \u05e6\u05e4\u05d5 &gt;&gt; https://t.co/IgDTD16RMn",
+          "created_at": "Sun Nov 08 21:10:18 +0000 2026",
+          "url": "/netanyahu/status/2119538021850898856",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2119361295971438800",
+          "author": "netanyahu",
+          "text": "\u05ea\u05d7\u05e7\u05d9\u05e8 \u05e9\u05d7\u05d9\u05d9\u05d1\u05d9\u05dd \u05dc\u05e7\u05e8\u05d5\u05d0: https://t.co/NYkeBLHUs3",
+          "created_at": "Sun Nov 08 09:28:03 +0000 2026",
+          "url": "/netanyahu/status/2119361295971438800",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2119120104017605096",
+          "author": "netanyahu",
+          "text": "\u05d0\u05d7\u05d3\u05d5\u05ea \u05dc\u05d0\u05d5\u05de\u05d9\u05ea \ud83c\uddee\ud83c\uddf1 https://t.co/YuTxqwAdCZ",
+          "created_at": "Sat Nov 07 17:29:38 +0000 2026",
+          "url": "/netanyahu/status/2119120104017605096",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2118633299643875607",
+          "author": "netanyahu",
+          "text": "\u05d7\u05d5\u05d1\u05ea \u05e7\u05e8\u05d9\u05d0\u05d4 https://t.co/eVavhyQVAf",
+          "created_at": "Fri Nov 06 09:15:15 +0000 2026",
+          "url": "/netanyahu/status/2118633299643875607",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2118330411587903966",
+          "author": "netanyahu",
+          "text": "\u05d4\u05e0\u05e9\u05d9\u05d0 \u05d4\u05e8\u05e6\u05d5\u05d2 \u05e9\u05d5\u05d0\u05dc \u05d0\u05ea \u05e2\u05d1\u05d0\u05e1 \u05e9\u05d0\u05dc\u05d4 \u05d0\u05d7\u05ea: \u05d4\u05d0\u05dd \u05d7\u05de\u05d0\u05e1 \u05d0\u05e8\u05d2\u05d5\u05df \u05d8\u05e8\u05d5\u05e8. \u05d4\u05ea\u05e9\u05d5\u05d1\u05d4 \u05e9\u05dc \u05e2\u05d1\u05d0\u05e1: \"\u05d0\u05d9 \u05d0\u05e4\u05e9\u05e8 \u05dc\u05d4\u05e2\u05de\u05d9\u05d3 \u05d0\u05d5\u05ea\u05e0\u05d5 \u05d1\u05de\u05d1\u05d7\u05df \u05d4\u05d6\u05d4\". \u05db\u05e4\u05d9 \u05e9\u05d0\u05de\u05e8\u05e0\u05d5 \u05d1\u05de\u05e2\u05e8\u05db\u05ea \u05d4\u05d1\u05d7\u05d9\u05e8\u05d5\u05ea: \u05e2\u05d1\u05d0\u05e1 \u05d4\u05de\u05dc\u05d9\u05e5 \u05d4\u05d9\u05d5\u05dd \u05e2\u05dc \u05d0\u05d9\u05d6\u05e0\u05e7\u05d5\u05d8 \u05dc\u05e8\u05d0\u05e9\u05d5\u05ea \u05d4\u05de\u05de\u05e9\u05dc\u05d4, \u05db\u05d9 \u05d0\u05d9\u05df \u05dc\u05d5 \u05de\u05de\u05e9\u05dc\u05d4 \u05d1\u05dc\u05d9 \u05d4\u05de\u05e4\u05dc\u05d2\u05d5\u05ea \u05d4\u05e2\u05e8\u05d1\u05d9\u05d5\u05ea. https://t.co/aTIcKfO7v7",
+          "created_at": "Thu Nov 05 13:11:41 +0000 2026",
+          "url": "/netanyahu/status/2118330411587903966",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2118327354103832754",
+          "author": "netanyahu",
+          "text": "\u05d0\u05e0\u05d9 \u05de\u05d0\u05d5\u05d3 \u05de\u05e2\u05e8\u05d9\u05da \u05d0\u05ea \u05d4\u05ea\u05de\u05d9\u05db\u05d4 \u05e9\u05dc \u05d9\u05d4\u05d5\u05d3\u05d9\u05ea \u05e8\u05d1\u05d9\u05e5. \u05ea\u05d5\u05d3\u05d4 \u05e8\u05d1\u05d4 \u05dc\u05da. https://t.co/Kegc1O00Q6",
+          "created_at": "Thu Nov 05 12:59:32 +0000 2026",
+          "url": "/netanyahu/status/2118327354103832754",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        },
+        {
+          "post_id": "2118066719453589853",
+          "author": "netanyahu",
+          "text": "\u05d0\u05d6\u05e8\u05d7\u05d9 \u05d9\u05e9\u05e8\u05d0\u05dc \u05d4\u05d9\u05e7\u05e8\u05d9\u05dd, \u05d4\u05d0\u05e1\u05dc\u05d0\u05dd \u05d4\u05e7\u05d9\u05e6\u05d5\u05e0\u05d9 \u05d4\u05d5\u05d0 \u05d4\u05d0\u05ea\u05d2\u05e8 \u05e9\u05de\u05e4\u05e8\u05e7 \u05d4\u05d9\u05d5\u05dd \u05de\u05d3\u05d9\u05e0\u05d5\u05ea \u05d1\u05d0\u05d9\u05e8\u05d5\u05e4\u05d4. \u05d6\u05d4\u05d5 \u05d4\u05d0\u05ea\u05d2\u05e8 \u05e9\u05de\u05d0\u05d9\u05d9\u05dd \u05d2\u05dd \u05e2\u05dc\u05d9\u05e0\u05d5. \u05d4\u05d5\u05d0 \u05de\u05d0\u05d9\u05d9\u05dd \u05de\u05d1\u05d7\u05d5\u05e5 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d0\u05d9\u05e8\u05d0\u05df \u05d5\u05d2\u05e8\u05d5\u05e8\u05d5\u05ea\u05d9\u05d4, \u05d5\u05de\u05d1\u05d9\u05ea \u05e2\u05dc \u05d9\u05d3\u05d9 \u05de\u05e4\u05dc\u05d2\u05d5\u05ea \u05d0\u05e1\u05dc\u05d0\u05de\u05d9\u05e1\u05d8\u05d9\u05d5\u05ea \u05e9\u05dc \u05ea\u05d5\u05de\u05db\u05d9 \u05d8\u05e8\u05d5\u05e8. \u05d4\u05dd \u05d7\u05d5\u05ea\u05e8\u05d9\u05dd \u05dc\u05de\u05d7\u05d5\u05e7 \u05d0\u05ea \u05d4\u05d6\u05d4\u05d5\u05ea \u05d4\u05d9\u05d4\u05d5\u05d3\u05d9\u05ea \u05e9\u05dc \u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc. \u05d4\u05dd \u05d0\u05d5\u05de\u05e8\u05d9\u05dd \u05d6\u05d0\u05ea \u05d1\u05d2\u05dc\u05d5\u05d9. \u05d4\u05dd \u05d7\u05d5\u05ea\u05e8\u05d9\u05dd \u05dc\u05de\u05e0\u05d5\u05e2 \u05de\u05d0\u05d9\u05ea\u05e0\u05d5 https://t.co/t4K7pRiiOH",
+          "created_at": "Wed Nov 04 19:43:52 +0000 2026",
+          "url": "/netanyahu/status/2118066719453589853",
+          "retrieved_at": "2026-11-10T10:59:59Z",
+          "source": "x:syndication"
+        }
+      ]
+    },
+    "swarm": {
+      "n_voters": 0,
+      "votes": [],
+      "state": "no votes"
+    },
+    "influence": {
+      "iran_public": 0.0,
+      "oil_market": 0.0,
+      "shipping": 0.0,
+      "trump": 0.0,
+      "gas_market": 0.0,
+      "iran_hardliners": 0.0,
+      "markets": 0.0,
+      "netanyahu": 0.0,
+      "china": 0.0,
+      "media": 0.0,
+      "gulf": 0.0,
+      "russia": 0.0,
+      "us_public": 0.0
+    },
+    "scoreboard": {
+      "trump": {
+        "n": 210,
+        "accuracy": 0.11,
+        "brier": 0.428,
+        "false_pos": 187,
+        "false_neg": 0,
+        "by_horizon": {
+          "24h": {
+            "n": 84,
+            "acc": 0.036,
+            "brier": 0.573
+          },
+          "72h": {
+            "n": 73,
+            "acc": 0.151,
+            "brier": 0.373
+          },
+          "7d": {
+            "n": 45,
+            "acc": 0.133,
+            "brier": 0.287
+          },
+          "14d": {
+            "n": 8,
+            "acc": 0.375,
+            "brier": 0.211
+          }
+        },
+        "by_source": {
+          "unknown": {
+            "n": 210,
+            "acc": 0.11
+          }
+        },
+        "conf_bins": {
+          "4": {
+            "n": 39,
+            "conf": 33.450000000000024,
+            "freq": 2.0
+          },
+          "3": {
+            "n": 94,
+            "conf": 64.85000000000004,
+            "freq": 2.0
+          },
+          "2": {
+            "n": 73,
+            "conf": 36.650000000000006,
+            "freq": 5.0
+          },
+          "0": {
+            "n": 4,
+            "conf": 0.22,
+            "freq": 0.0
+          }
+        }
+      },
+      "netanyahu": {
+        "n": 93,
+        "accuracy": 0.065,
+        "brier": 0.388,
+        "false_pos": 87,
+        "false_neg": 0,
+        "by_horizon": {
+          "24h": {
+            "n": 62,
+            "acc": 0.048,
+            "brier": 0.439
+          },
+          "72h": {
+            "n": 25,
+            "acc": 0.12,
+            "brier": 0.294
+          },
+          "7d": {
+            "n": 6,
+            "acc": 0.0,
+            "brier": 0.25
+          }
+        },
+        "by_source": {
+          "unknown": {
+            "n": 93,
+            "acc": 0.065
+          }
+        },
+        "conf_bins": {
+          "2": {
+            "n": 53,
+            "conf": 26.4,
+            "freq": 1.0
+          },
+          "3": {
+            "n": 24,
+            "conf": 16.9,
+            "freq": 0.0
+          },
+          "4": {
+            "n": 15,
+            "conf": 12.78,
+            "freq": 0.0
+          },
+          "0": {
+            "n": 1,
+            "conf": 0.08,
+            "freq": 0.0
+          }
+        }
+      },
+      "iran_hardliners": {
+        "n": 149,
+        "accuracy": 0.101,
+        "brier": 0.367,
+        "false_pos": 134,
+        "false_neg": 0,
+        "by_horizon": {
+          "24h": {
+            "n": 81,
+            "acc": 0.062,
+            "brier": 0.441
+          },
+          "72h": {
+            "n": 53,
+            "acc": 0.132,
+            "brier": 0.285
+          },
+          "7d": {
+            "n": 14,
+            "acc": 0.214,
+            "brier": 0.257
+          },
+          "14d": {
+            "n": 1,
+            "acc": 0.0,
+            "brier": 0.25
+          }
+        },
+        "by_source": {
+          "unknown": {
+            "n": 149,
+            "acc": 0.101
+          }
+        },
+        "conf_bins": {
+          "2": {
+            "n": 81,
+            "conf": 40.36999999999999,
+            "freq": 5.0
+          },
+          "4": {
+            "n": 13,
+            "conf": 11.069999999999999,
+            "freq": 0.0
+          },
+          "3": {
+            "n": 51,
+            "conf": 35.499999999999986,
+            "freq": 0.0
+          },
+          "0": {
+            "n": 3,
+            "conf": 0.19,
+            "freq": 0.0
+          },
+          "1": {
+            "n": 1,
+            "conf": 0.35,
+            "freq": 0.0
+          }
+        }
+      },
+      "russia": {
+        "n": 81,
+        "accuracy": 0.062,
+        "brier": 0.372,
+        "false_pos": 76,
+        "false_neg": 0,
+        "by_horizon": {
+          "24h": {
+            "n": 58,
+            "acc": 0.069,
+            "brier": 0.403
+          },
+          "72h": {
+            "n": 19,
+            "acc": 0.053,
+            "brier": 0.301
+          },
+          "7d": {
+            "n": 4,
+            "acc": 0.0,
+            "brier": 0.25
+          }
+        },
+        "by_source": {
+          "unknown": {
+            "n": 81,
+            "acc": 0.062
+          }
+        },
+        "conf_bins": {
+          "3": {
+            "n": 22,
+            "conf": 15.899999999999997,
+            "freq": 0.0
+          },
+          "2": {
+            "n": 48,
+            "conf": 23.979999999999997,
+            "freq": 1.0
+          },
+          "4": {
+            "n": 9,
+            "conf": 7.649999999999999,
+            "freq": 0.0
+          },
+          "0": {
+            "n": 2,
+            "conf": 0.2,
+            "freq": 0.0
+          }
+        }
+      },
+      "china": {
+        "n": 80,
+        "accuracy": 0.087,
+        "brier": 0.359,
+        "false_pos": 73,
+        "false_neg": 0,
+        "by_horizon": {
+          "24h": {
+            "n": 60,
+            "acc": 0.083,
+            "brier": 0.385
+          },
+          "72h": {
+            "n": 16,
+            "acc": 0.125,
+            "brier": 0.287
+          },
+          "7d": {
+            "n": 4,
+            "acc": 0.0,
+            "brier": 0.25
+          }
+        },
+        "by_source": {
+          "unknown": {
+            "n": 80,
+            "acc": 0.087
+          }
+        },
+        "conf_bins": {
+          "3": {
+            "n": 15,
+            "conf": 10.809999999999999,
+            "freq": 0.0
+          },
+          "2": {
+            "n": 55,
+            "conf": 27.43,
+            "freq": 4.0
+          },
+          "4": {
+            "n": 10,
+            "conf": 8.469999999999999,
+            "freq": 0.0
+          }
+        }
+      },
+      "eu": {
+        "n": 77,
+        "accuracy": 0.091,
+        "brier": 0.352,
+        "false_pos": 70,
+        "false_neg": 0,
+        "by_horizon": {
+          "24h": {
+            "n": 60,
+            "acc": 0.083,
+            "brier": 0.372
+          },
+          "72h": {
+            "n": 15,
+            "acc": 0.067,
+            "brier": 0.285
+          },
+          "7d": {
+            "n": 2,
+            "acc": 0.5,
+            "brier": 0.25
+          }
+        },
+        "by_source": {
+          "unknown": {
+            "n": 77,
+            "acc": 0.091
+          }
+        },
+        "conf_bins": {
+          "3": {
+            "n": 20,
+            "conf": 14.21,
+            "freq": 1.0
+          },
+          "2": {
+            "n": 48,
+            "conf": 24.0,
+            "freq": 3.0
+          },
+          "4": {
+            "n": 7,
+            "conf": 6.02,
+            "freq": 0.0
+          },
+          "0": {
+            "n": 2,
+            "conf": 0.16,
+            "freq": 0.0
+          }
+        }
+      },
+      "taiwan": {
+        "n": 120,
+        "accuracy": 0.167,
+        "brier": 0.322,
+        "false_pos": 99,
+        "false_neg": 1,
+        "by_horizon": {
+          "24h": {
+            "n": 72,
+            "acc": 0.125,
+            "brier": 0.377
+          },
+          "72h": {
+            "n": 45,
+            "acc": 0.244,
+            "brier": 0.239
+          },
+          "7d": {
+            "n": 3,
+            "acc": 0.0,
+            "brier": 0.268
+          }
+        },
+        "by_source": {
+          "unknown": {
+            "n": 120,
+            "acc": 0.167
+          }
+        },
+        "conf_bins": {
+          "3": {
+            "n": 39,
+            "conf": 26.979999999999997,
+            "freq": 0.0
+          },
+          "2": {
+            "n": 72,
+            "conf": 35.800000000000004,
+            "freq": 5.0
+          },
+          "4": {
+            "n": 2,
+            "conf": 1.67,
+            "freq": 0.0
+          },
+          "1": {
+            "n": 5,
+            "conf": 1.63,
+            "freq": 0.0
+          },
+          "0": {
+            "n": 2,
+            "conf": 0.11,
+            "freq": 0.0
+          }
+        }
+      },
+      "gulf": {
+        "n": 94,
+        "accuracy": 0.096,
+        "brier": 0.336,
+        "false_pos": 85,
+        "false_neg": 0,
+        "by_horizon": {
+          "24h": {
+            "n": 63,
+            "acc": 0.079,
+            "brier": 0.384
+          },
+          "72h": {
+            "n": 29,
+            "acc": 0.069,
+            "brier": 0.249
+          },
+          "7d": {
+            "n": 1,
+            "acc": 1.0,
+            "brier": 0.176
+          },
+          "14d": {
+            "n": 1,
+            "acc": 1.0,
+            "brier": 0.003
+          }
+        },
+        "by_source": {
+          "unknown": {
+            "n": 94,
+            "acc": 0.096
+          }
+        },
+        "conf_bins": {
+          "3": {
+            "n": 31,
+            "conf": 22.14,
+            "freq": 0.0
+          },
+          "2": {
+            "n": 60,
+            "conf": 29.82,
+            "freq": 2.0
+          },
+          "1": {
+            "n": 1,
+            "conf": 0.35,
+            "freq": 0.0
+          },
+          "0": {
+            "n": 1,
+            "conf": 0.05,
+            "freq": 0.0
+          },
+          "4": {
+            "n": 1,
+            "conf": 0.85,
+            "freq": 0.0
+          }
+        }
+      },
+      "turkey": {
+        "n": 58,
+        "accuracy": 0.086,
+        "brier": 0.367,
+        "false_pos": 53,
+        "false_neg": 0,
+        "by_horizon": {
+          "24h": {
+            "n": 44,
+            "acc": 0.068,
+            "brier": 0.396
+          },
+          "72h": {
+            "n": 13,
+            "acc": 0.154,
+            "brier": 0.278
+          },
+          "7d": {
+            "n": 1,
+            "acc": 0.0,
+            "brier": 0.25
+          }
+        },
+        "by_source": {
+          "unknown": {
+            "n": 58,
+            "acc": 0.086
+          }
+        },
+        "conf_bins": {
+          "2": {
+            "n": 38,
+            "conf": 18.95,
+            "freq": 2.0
+          },
+          "4": {
+            "n": 9,
+            "conf": 7.889999999999999,
+            "freq": 0.0
+          },
+          "3": {
+            "n": 10,
+            "conf": 7.380000000000001,
+            "freq": 1.0
+          },
+          "0": {
+            "n": 1,
+            "conf": 0.05,
+            "freq": 0.0
+          }
+        }
+      },
+      "oil_market": {
+        "n": 323,
+        "accuracy": 0.195,
+        "brier": 0.282,
+        "false_pos": 257,
+        "false_neg": 3,
+        "by_horizon": {
+          "24h": {
+            "n": 85,
+            "acc": 0.094,
+            "brier": 0.334
+          },
+          "72h": {
+            "n": 86,
+            "acc": 0.244,
+            "brier": 0.264
+          },
+          "7d": {
+            "n": 82,
+            "acc": 0.232,
+            "brier": 0.263
+          },
+          "14d": {
+            "n": 70,
+            "acc": 0.214,
+            "brier": 0.261
+          }
+        },
+        "by_source": {
+          "iran's": {
+            "n": 4,
+            "acc": 0.25
+          },
+          "unknown": {
+            "n": 167,
+            "acc": 0.186
+          },
+          "wire.": {
+            "n": 4,
+            "acc": 0.0
+          },
+          "real-world": {
+            "n": 20,
+            "acc": 0.05
+          },
+          "the": {
+            "n": 8,
+            "acc": 0.0
+          },
+          "markets": {
+            "n": 39,
+            "acc": 0.231
+          },
+          "xfeed": {
+            "n": 12,
+            "acc": 0.333
+          },
+          "diplomatic": {
+            "n": 8,
+            "acc": 0.375
+          },
+          "wire": {
+            "n": 48,
+            "acc": 0.25
+          },
+          "unga": {
+            "n": 4,
+            "acc": 0.25
+          },
+          "markets.": {
+            "n": 4,
+            "acc": 0.0
+          },
+          "real_events/day69.txt": {
+            "n": 3,
+            "acc": 0.333
+          },
+          "xref:": {
+            "n": 2,
+            "acc": 0.0
+          }
+        },
+        "conf_bins": {
+          "3": {
+            "n": 46,
+            "conf": 28.650000000000016,
+            "freq": 2.0
+          },
+          "2": {
+            "n": 221,
+            "conf": 107.40000000000005,
+            "freq": 6.0
+          },
+          "4": {
+            "n": 28,
+            "conf": 22.65000000000001,
+            "freq": 0.0
+          },
+          "1": {
+            "n": 22,
+            "conf": 5.799999999999999,
+            "freq": 2.0
+          },
+          "0": {
+            "n": 6,
+            "conf": 0.47,
+            "freq": 0.0
+          }
+        }
+      },
+      "gas_market": {
+        "n": 334,
+        "accuracy": 0.204,
+        "brier": 0.298,
+        "false_pos": 261,
+        "false_neg": 5,
+        "by_horizon": {
+          "24h": {
+            "n": 86,
+            "acc": 0.081,
+            "brier": 0.338
+          },
+          "72h": {
+            "n": 86,
+            "acc": 0.314,
+            "brier": 0.278
+          },
+          "7d": {
+            "n": 82,
+            "acc": 0.195,
+            "brier": 0.299
+          },
+          "14d": {
+            "n": 69,
+            "acc": 0.217,
+            "brier": 0.276
+          },
+          "30d": {
+            "n": 11,
+            "acc": 0.273,
+            "brier": 0.257
+          }
+        },
+        "by_source": {
+          "wire": {
+            "n": 19,
+            "acc": 0.263
+          },
+          "unknown": {
+            "n": 226,
+            "acc": 0.204
+          },
+          "xfeed": {
+            "n": 26,
+            "acc": 0.231
+          },
+          "the": {
+            "n": 8,
+            "acc": 0.125
+          },
+          "today's": {
+            "n": 4,
+            "acc": 0.25
+          },
+          "markets": {
+            "n": 13,
+            "acc": 0.154
+          },
+          "real-world": {
+            "n": 30,
+            "acc": 0.133
+          },
+          "x": {
+            "n": 4,
+            "acc": 0.0
+          },
+          "iranian": {
+            "n": 4,
+            "acc": 0.75
+          }
+        },
+        "conf_bins": {
+          "4": {
+            "n": 36,
+            "conf": 29.250000000000018,
+            "freq": 0.0
+          },
+          "3": {
+            "n": 56,
+            "conf": 35.10000000000002,
+            "freq": 0.0
+          },
+          "2": {
+            "n": 214,
+            "conf": 103.20000000000007,
+            "freq": 10.0
+          },
+          "1": {
+            "n": 27,
+            "conf": 6.8,
+            "freq": 2.0
+          },
+          "0": {
+            "n": 1,
+            "conf": 0.1,
+            "freq": 0.0
+          }
+        }
+      },
+      "shipping": {
+        "n": 331,
+        "accuracy": 0.281,
+        "brier": 0.277,
+        "false_pos": 236,
+        "false_neg": 2,
+        "by_horizon": {
+          "24h": {
+            "n": 87,
+            "acc": 0.057,
+            "brier": 0.32
+          },
+          "72h": {
+            "n": 87,
+            "acc": 0.437,
+            "brier": 0.241
+          },
+          "7d": {
+            "n": 83,
+            "acc": 0.289,
+            "brier": 0.317
+          },
+          "14d": {
+            "n": 73,
+            "acc": 0.342,
+            "brier": 0.226
+          },
+          "30d": {
+            "n": 1,
+            "acc": 1.0,
+            "brier": 0.01
+          }
+        },
+        "by_source": {
+          "iran's": {
+            "n": 4,
+            "acc": 0.0
+          },
+          "real-world": {
+            "n": 56,
+            "acc": 0.286
+          },
+          "unknown": {
+            "n": 185,
+            "acc": 0.259
+          },
+          "the": {
+            "n": 16,
+            "acc": 0.125
+          },
+          "wire": {
+            "n": 8,
+            "acc": 0.5
+          },
+          "<xfeed>": {
+            "n": 4,
+            "acc": 0.25
+          },
+          "real": {
+            "n": 4,
+            "acc": 0.0
+          },
+          "markets": {
+            "n": 30,
+            "acc": 0.433
+          },
+          "xfeed": {
+            "n": 11,
+            "acc": 0.364
+          },
+          "real_world_wire": {
+            "n": 4,
+            "acc": 0.5
+          },
+          "real_events/day79.txt": {
+            "n": 4,
+            "acc": 0.25
+          },
+          "real_events/day80.txt": {
+            "n": 3,
+            "acc": 0.333
+          },
+          "real_events/day89.txt": {
+            "n": 2,
+            "acc": 0.5
+          }
+        },
+        "conf_bins": {
+          "2": {
+            "n": 193,
+            "conf": 92.40000000000002,
+            "freq": 10.0
+          },
+          "3": {
+            "n": 65,
+            "conf": 40.700000000000045,
+            "freq": 1.0
+          },
+          "4": {
+            "n": 29,
+            "conf": 23.40000000000001,
+            "freq": 0.0
+          },
+          "1": {
+            "n": 30,
+            "conf": 7.899999999999999,
+            "freq": 1.0
+          },
+          "0": {
+            "n": 14,
+            "conf": 1.05,
+            "freq": 0.0
+          }
+        }
+      },
+      "markets": {
+        "n": 324,
+        "accuracy": 0.231,
+        "brier": 0.266,
+        "false_pos": 248,
+        "false_neg": 1,
+        "by_horizon": {
+          "24h": {
+            "n": 85,
+            "acc": 0.106,
+            "brier": 0.29
+          },
+          "72h": {
+            "n": 85,
+            "acc": 0.271,
+            "brier": 0.272
+          },
+          "7d": {
+            "n": 81,
+            "acc": 0.321,
+            "brier": 0.252
+          },
+          "14d": {
+            "n": 73,
+            "acc": 0.233,
+            "brier": 0.248
+          }
+        },
+        "by_source": {
+          "unknown": {
+            "n": 190,
+            "acc": 0.274
+          },
+          "wire": {
+            "n": 28,
+            "acc": 0.179
+          },
+          "xfeed": {
+            "n": 24,
+            "acc": 0.25
+          },
+          "real-world": {
+            "n": 42,
+            "acc": 0.214
+          },
+          "xref:": {
+            "n": 8,
+            "acc": 0.0
+          },
+          "the": {
+            "n": 14,
+            "acc": 0.143
+          },
+          "diplomatic": {
+            "n": 4,
+            "acc": 0.0
+          },
+          "iran's": {
+            "n": 4,
+            "acc": 0.0
+          },
+          "unga": {
+            "n": 4,
+            "acc": 0.0
+          },
+          "real": {
+            "n": 3,
+            "acc": 0.0
+          },
+          "al": {
+            "n": 3,
+            "acc": 0.333
+          }
+        },
+        "conf_bins": {
+          "3": {
+            "n": 52,
+            "conf": 32.80000000000001,
+            "freq": 1.0
+          },
+          "2": {
+            "n": 216,
+            "conf": 104.90000000000006,
+            "freq": 8.0
+          },
+          "4": {
+            "n": 21,
+            "conf": 17.000000000000007,
+            "freq": 2.0
+          },
+          "0": {
+            "n": 13,
+            "conf": 0.91,
+            "freq": 0.0
+          },
+          "1": {
+            "n": 22,
+            "conf": 5.699999999999999,
+            "freq": 0.0
+          }
+        }
+      },
+      "central_banks": {
+        "n": 196,
+        "accuracy": 0.204,
+        "brier": 0.352,
+        "false_pos": 155,
+        "false_neg": 1,
+        "by_horizon": {
+          "24h": {
+            "n": 84,
+            "acc": 0.131,
+            "brier": 0.449
+          },
+          "72h": {
+            "n": 70,
+            "acc": 0.3,
+            "brier": 0.293
+          },
+          "7d": {
+            "n": 37,
+            "acc": 0.189,
+            "brier": 0.255
+          },
+          "14d": {
+            "n": 5,
+            "acc": 0.2,
+            "brier": 0.261
+          }
+        },
+        "by_source": {
+          "unknown": {
+            "n": 196,
+            "acc": 0.204
+          }
+        },
+        "conf_bins": {
+          "3": {
+            "n": 72,
+            "conf": 49.66999999999999,
+            "freq": 1.0
+          },
+          "2": {
+            "n": 102,
+            "conf": 50.550000000000004,
+            "freq": 7.0
+          },
+          "0": {
+            "n": 4,
+            "conf": 0.25,
+            "freq": 0.0
+          },
+          "4": {
+            "n": 12,
+            "conf": 10.169999999999998,
+            "freq": 0.0
+          },
+          "1": {
+            "n": 6,
+            "conf": 2.01,
+            "freq": 0.0
+          }
+        }
+      },
+      "us_public": {
+        "n": 197,
+        "accuracy": 0.264,
+        "brier": 0.299,
+        "false_pos": 144,
+        "false_neg": 1,
+        "by_horizon": {
+          "24h": {
+            "n": 85,
+            "acc": 0.318,
+            "brier": 0.337
+          },
+          "72h": {
+            "n": 72,
+            "acc": 0.236,
+            "brier": 0.274
+          },
+          "7d": {
+            "n": 31,
+            "acc": 0.194,
+            "brier": 0.267
+          },
+          "14d": {
+            "n": 8,
+            "acc": 0.125,
+            "brier": 0.239
+          },
+          "30d": {
+            "n": 1,
+            "acc": 1.0,
+            "brier": 0.25
+          }
+        },
+        "by_source": {
+          "unknown": {
+            "n": 197,
+            "acc": 0.264
+          }
+        },
+        "conf_bins": {
+          "3": {
+            "n": 59,
+            "conf": 39.57999999999999,
+            "freq": 1.0
+          },
+          "2": {
+            "n": 121,
+            "conf": 59.64999999999997,
+            "freq": 5.0
+          },
+          "1": {
+            "n": 13,
+            "conf": 4.0,
+            "freq": 0.0
+          },
+          "0": {
+            "n": 2,
+            "conf": 0.16999999999999998,
+            "freq": 0.0
+          },
+          "4": {
+            "n": 2,
+            "conf": 1.65,
+            "freq": 0.0
+          }
+        }
+      },
+      "iran_public": {
+        "n": 347,
+        "accuracy": 0.207,
+        "brier": 0.289,
+        "false_pos": 273,
+        "false_neg": 2,
+        "by_horizon": {
+          "24h": {
+            "n": 87,
+            "acc": 0.034,
+            "brier": 0.374
+          },
+          "72h": {
+            "n": 87,
+            "acc": 0.356,
+            "brier": 0.27
+          },
+          "7d": {
+            "n": 83,
+            "acc": 0.265,
+            "brier": 0.263
+          },
+          "14d": {
+            "n": 67,
+            "acc": 0.194,
+            "brier": 0.252
+          },
+          "30d": {
+            "n": 23,
+            "acc": 0.13,
+            "brier": 0.235
+          }
+        },
+        "by_source": {
+          "unknown": {
+            "n": 270,
+            "acc": 0.2
+          },
+          "markets": {
+            "n": 22,
+            "acc": 0.045
+          },
+          "the": {
+            "n": 4,
+            "acc": 0.0
+          },
+          "wire": {
+            "n": 28,
+            "acc": 0.321
+          },
+          "xfeed": {
+            "n": 7,
+            "acc": 0.143
+          },
+          "real-world": {
+            "n": 10,
+            "acc": 0.5
+          },
+          "real_events/day65.txt": {
+            "n": 4,
+            "acc": 0.0
+          },
+          "markets.": {
+            "n": 2,
+            "acc": 1.0
+          }
+        },
+        "conf_bins": {
+          "2": {
+            "n": 224,
+            "conf": 108.20000000000007,
+            "freq": 9.0
+          },
+          "3": {
+            "n": 66,
+            "conf": 41.700000000000045,
+            "freq": 2.0
+          },
+          "4": {
+            "n": 30,
+            "conf": 24.20000000000001,
+            "freq": 0.0
+          },
+          "1": {
+            "n": 24,
+            "conf": 6.25,
+            "freq": 0.0
+          },
+          "0": {
+            "n": 3,
+            "conf": 0.30000000000000004,
+            "freq": 0.0
+          }
+        }
+      },
+      "israeli_public": {
+        "n": 144,
+        "accuracy": 0.111,
+        "brier": 0.356,
+        "false_pos": 128,
+        "false_neg": 0,
+        "by_horizon": {
+          "24h": {
+            "n": 78,
+            "acc": 0.077,
+            "brier": 0.413
+          },
+          "72h": {
+            "n": 48,
+            "acc": 0.208,
+            "brier": 0.29
+          },
+          "7d": {
+            "n": 16,
+            "acc": 0.0,
+            "brier": 0.283
+          },
+          "14d": {
+            "n": 2,
+            "acc": 0.0,
+            "brier": 0.25
+          }
+        },
+        "by_source": {
+          "unknown": {
+            "n": 144,
+            "acc": 0.111
+          }
+        },
+        "conf_bins": {
+          "3": {
+            "n": 53,
+            "conf": 36.48999999999999,
+            "freq": 0.0
+          },
+          "4": {
+            "n": 8,
+            "conf": 6.719999999999999,
+            "freq": 0.0
+          },
+          "2": {
+            "n": 82,
+            "conf": 40.67999999999999,
+            "freq": 3.0
+          },
+          "0": {
+            "n": 1,
+            "conf": 0.06,
+            "freq": 0.0
+          }
+        }
+      },
+      "media": {
+        "n": 335,
+        "accuracy": 0.194,
+        "brier": 0.281,
+        "false_pos": 267,
+        "false_neg": 3,
+        "by_horizon": {
+          "24h": {
+            "n": 87,
+            "acc": 0.115,
+            "brier": 0.303
+          },
+          "72h": {
+            "n": 87,
+            "acc": 0.322,
+            "brier": 0.257
+          },
+          "7d": {
+            "n": 81,
+            "acc": 0.185,
+            "brier": 0.296
+          },
+          "14d": {
+            "n": 70,
+            "acc": 0.157,
+            "brier": 0.271
+          },
+          "30d": {
+            "n": 10,
+            "acc": 0.1,
+            "brier": 0.25
+          }
+        },
+        "by_source": {
+          "unknown": {
+            "n": 236,
+            "acc": 0.216
+          },
+          "real-world": {
+            "n": 22,
+            "acc": 0.227
+          },
+          "markets": {
+            "n": 17,
+            "acc": 0.118
+          },
+          "wire": {
+            "n": 23,
+            "acc": 0.13
+          },
+          "xfeed": {
+            "n": 27,
+            "acc": 0.111
+          },
+          "the": {
+            "n": 10,
+            "acc": 0.1
+          }
+        },
+        "conf_bins": {
+          "3": {
+            "n": 61,
+            "conf": 38.70000000000003,
+            "freq": 1.0
+          },
+          "2": {
+            "n": 236,
+            "conf": 113.90000000000008,
+            "freq": 9.0
+          },
+          "4": {
+            "n": 19,
+            "conf": 15.200000000000005,
+            "freq": 0.0
+          },
+          "1": {
+            "n": 19,
+            "conf": 5.099999999999999,
+            "freq": 1.0
+          }
+        }
+      },
+      "humanitarian": {
+        "n": 123,
+        "accuracy": 0.228,
+        "brier": 0.329,
+        "false_pos": 95,
+        "false_neg": 0,
+        "by_horizon": {
+          "24h": {
+            "n": 49,
+            "acc": 0.245,
+            "brier": 0.41
+          },
+          "72h": {
+            "n": 47,
+            "acc": 0.213,
+            "brier": 0.301
+          },
+          "7d": {
+            "n": 22,
+            "acc": 0.182,
+            "brier": 0.232
+          },
+          "14d": {
+            "n": 5,
+            "acc": 0.4,
+            "brier": 0.223
+          }
+        },
+        "by_source": {
+          "unknown": {
+            "n": 123,
+            "acc": 0.228
+          }
+        },
+        "conf_bins": {
+          "2": {
+            "n": 64,
+            "conf": 31.700000000000003,
+            "freq": 1.0
+          },
+          "3": {
+            "n": 47,
+            "conf": 32.43,
+            "freq": 1.0
+          },
+          "0": {
+            "n": 3,
+            "conf": 0.16,
+            "freq": 0.0
+          },
+          "4": {
+            "n": 4,
+            "conf": 3.2699999999999996,
+            "freq": 1.0
+          },
+          "1": {
+            "n": 5,
+            "conf": 1.58,
+            "freq": 0.0
+          }
+        }
+      }
+    },
+    "learning": {}
   }
 ]
